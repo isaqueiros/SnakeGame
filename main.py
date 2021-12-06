@@ -3,6 +3,10 @@ import time
 import random
 pygame.init()
 
+grey = (211,211,211)
+black = (0,0,0)
+red = (255,0,0)
+brown = (165,42,42)
 
 dis_width=800
 dis_height=600
